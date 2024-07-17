@@ -1,0 +1,43 @@
+.contentSkills {
+    display: flex;
+    flex-direction: column;
+}
+
+.contentSkills .tools ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.contentSkills .tools ul li img {     
+    max-width: 50px;
+    margin: .5rem .5rem;
+}
+
+.contentSkills .personal_Skills ul  {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+.contentSkills .personal_Skills ul li{
+    margin-left: 2rem;
+    padding: .5rem;
+}
+
+/*Media Query - Mobile */
+
+@media only screen and (min-width: 768px){
+    
+    .contentSkills{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+}

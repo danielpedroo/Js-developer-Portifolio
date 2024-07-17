@@ -1,0 +1,29 @@
+/*Media Query - Mobile */
+
+@media only screen and (min-width: 768px){
+    
+    .biograph {
+        display: grid;
+        grid-template-areas: 
+        "photoProfile title_Profile"
+        "photoProfile biograph_content"
+        ;
+    }
+
+    .biograph .photoProfile{
+        grid-area: photoProfile;
+        margin: 0 auto;
+    }
+
+    .biograph .title_Profile{
+        grid-area: title_Profile;
+        max-width: 210px;
+        text-align: start;
+    }
+
+    .biograph .biograph_content{
+        grid-area: biograph_content;
+    }
+
+
+}

@@ -1,0 +1,74 @@
+.acordeon {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+    width: 100%;
+    border-radius: 1rem;
+    border: 1px solid #fff;
+    transition: 1s;
+}
+
+.acordeon.open,
+.acordeon:hover {
+    background-color: #55569E;
+    color: #fff;
+}
+
+/* Acordeon Btn */
+.acordeon .btnTrigger {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    font-size: 1.5rem;
+    font-weight: 700;
+    padding: 1rem 2rem;
+}
+
+.acordeon .btnTrigger h2{
+    margin: 0;
+    font-size: 1.5rem;
+    text-align: start;
+}
+
+.acordeon .btnTrigger::after {
+    content: "";
+    display: inline-block;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../Assets/Arrow-top.svg');
+    transition: 2s;
+}
+
+.acordeon .btnTrigger:hover {
+    cursor: pointer;
+}
+
+/*Acordeon content initial */
+.acordeon .acordeon_content {
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: opacity .2s ease-in-out;
+}
+
+
+/* Acordeon Open */
+.acordeon.open .btnTrigger::after {
+    transform: rotate(180deg);
+    transition: 2s;
+}
+
+
+/* Acordeon Open Content */
+.acordeon.open .acordeon_content {
+    display: block;
+    height: auto;
+    padding: 0 1rem 1rem 2rem;
+    opacity: 1;
+}

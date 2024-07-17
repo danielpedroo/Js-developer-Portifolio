@@ -1,0 +1,72 @@
+{
+    "name": "Daniel Pedro",
+    "photo": "https://avatars.githubusercontent.com/u/102440318?v=4",
+    "job": "Full Stack developer",
+    "location": "São Paulo - SP",
+    "phone": "(11) 98961-2174",
+    "email": "danielpapereiraJV@gmail.com",
+    "skills": {
+        "hardSkills": [
+            {
+                "name": "Angular",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+            },
+            {
+                "name": "Csharp",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
+            },
+            {
+                "name": "Java",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+            },
+            {
+                "name": "React",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+            },
+            {
+                "name": "Mongodb",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+            },
+            {
+                "name": "Postgresql",
+                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+            }
+        ],
+        "softSkills": [
+            "Empatia",
+            "Liderança",
+            "Gestão do tempo",
+            "Trabalho em equipe",
+            "Flexibilidade",
+            "Organização"
+        ]
+    },
+    "languages": [
+        "Português BR",
+        "Inglês (Basico)"
+    ],
+    "portfolio": [
+        {
+            "name": "Projeto Xadrez - .NET",
+            "url": "https://github.com/danielpedroo/Xadrez_Project_.NET",
+            "github": true
+        },
+        {
+            "name": "Projeto Pokedex - JavaScript",
+            "url": "https://github.com/danielpedroo/Pokedex",
+            "github": true
+        }
+    ],
+    "professionalExperience": [
+        {
+            "name": "Suporte Tecnico",
+            "period": "2022 - até o momento",
+            "description": "Sou responsável pelo reparo de computadores, atuando com respeito, ética e empatia. Além de resolver problemas de hardware e software, trago comigo ensinamentos e ofereço auxílio aos demais colaboradores."
+        },
+        {
+            "name": "Tecnico de celular",
+            "period": "2021 - 2022",
+            "description": "Responsável pela manutenção de dispositivos móveis, como smartphones, tablets e outros. Sempre mantive a coesão, o respeito e o profissionalismo no atendimento aos clientes.."
+        }
+    ]
+}
