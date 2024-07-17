@@ -17,35 +17,35 @@
             },
             {
                 "name": "MySql",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/MySql.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/MySql.svg"
             },
             {
                 "name": "Azure",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/Azure.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Azure.svg"
             },
             {
                 "name": "Git",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/Git.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Git.svg"
             },
             {
                 "name": "GitHub_Skill",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/GitHub_Skill.svg"
-            }
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/GitHub_Skill.svg"
+            },
             {
                 "name": "Csharp",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/Csharp.svg"
-            }
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Csharp.svg"
+            },
             {
                 "name": "JavaScript",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/JavaScript.svg"
-            }
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/JavaScript.svg"
+            },
             {
                 "name": "Html",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/Html.svg"
-            }
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Html.svg"
+            },
             {
                 "name": "Css",
-                "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/Css.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Css.svg"
             }
         ],
         "softSkills": [
