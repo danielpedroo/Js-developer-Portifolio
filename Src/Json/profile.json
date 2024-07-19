@@ -61,11 +61,11 @@
     "languages": [
         {
             "nome": "Português",
-            "nivel": "Nativo"
+            "nivel": "(Nativo)"
         },
         {
             "nome": "Inglês",
-            "nivel": "Basico"
+            "nivel": "(Basico)"
         }
     ],
     "portfolio": [
