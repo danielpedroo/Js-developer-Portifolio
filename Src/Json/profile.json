@@ -59,8 +59,14 @@
         ]
     },
     "languages": [
-        "Português BR",
-        "Inglês (Basico)"
+        {
+            "nome": "Português",
+            "nivel": "Nativo"
+        },
+        {
+            "nome": "Inglês",
+            "nivel": "Basico"
+        }
     ],
     "portfolio": [
         {
