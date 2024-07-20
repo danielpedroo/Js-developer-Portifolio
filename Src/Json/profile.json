@@ -72,13 +72,11 @@
         {
             "name": "Projeto Xadrez - .NET",
             "url": "https://github.com/danielpedroo/Xadrez_Project_.NET",
-            "certificado": "",
             "git": true
         },
         {
             "name": "Projeto Pokedex - JavaScript",
             "url": "https://github.com/danielpedroo/Pokedex",
-            "certificado": "",
             "git": true
         }
     ],
