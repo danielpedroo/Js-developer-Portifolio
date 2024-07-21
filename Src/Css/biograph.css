@@ -31,8 +31,8 @@
 }
 
 
-.biograph_content p::before{
-    content:'';
+.biograph_content p::before {
+    content: '';
     display: inline-block;
     width: 24px;
     height: 24px;
@@ -42,27 +42,26 @@
 }
 
 
-.biograph_content .CodeJob::before{
+.biograph_content .CodeJob::before {
     background-image: url('../Assets/CodeJob.svg');
 }
-.biograph_content .GitHub::before{
+
+.biograph_content .GitHub::before {
     background-image: url('../Assets/github.svg');
 }
 
-.biograph_content .Linkedin::before{
+.biograph_content .Linkedin::before {
     background-image: url('../Assets/Linkedin.svg');
 }
 
-.biograph_content .Location::before{
+.biograph_content .Location::before {
     background-image: url('../Assets/Location.svg');
 }
 
-.biograph_content .Contact::before{
+.biograph_content .Contact::before {
     background-image: url('../Assets/Contact.svg');
 }
 
-.biograph_content .Email::before{
+.biograph_content .Email::before {
     background-image: url('../Assets/Email.svg');
 }
-
-
