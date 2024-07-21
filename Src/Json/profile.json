@@ -3,8 +3,9 @@
     "photo": "https://avatars.githubusercontent.com/u/102440318?v=4",
     "job": "Full Stack developer",
     "github": "https://github.com/danielpedroo",
+    "linkedin": "https://www.linkedin.com/in/daniel-pedro-12b306209/",
     "location": "São Paulo - SP",
-    "phone": "(11) 98961-2174",
+    "phone": "https://wa.me/5511989612174?text=Bem%20vindo!!",
     "email": "danielpapereiraJV@gmail.com",
     "skills": {
         "hardSkills": [
@@ -60,12 +61,20 @@
     },
     "languages": [
         {
-            "nome": "Português",
-            "nivel": "Nativo"
+            "name": "Português",
+            "level": "Nativo"
         },
         {
-            "nome": "Inglês",
-            "nivel": "Basico"
+            "name": "Inglês",
+            "level": "Basico"
+        }
+    ],
+    "education": [
+        {
+            "name": "Fatec Mogi das Cruzes",
+            "period": "Jan 2021 - Dec 2025",
+            "graduation": "Tecnólogo",
+            "course": "Análise e Desenvolvimento de Sistemas"
         }
     ],
     "portifolio": [
@@ -82,12 +91,12 @@
     ],
     "professionalExperience": [
         {
-            "name": "Suporte Tecnico",
+            "name": "Suporte Técnico",
             "period": "Nov 2022 - até o momento",
             "description": "Sou responsável pelo reparo de computadores, atuando com respeito, ética e empatia. Além de resolver problemas de hardware e software, trago comigo ensinamentos e ofereço auxílio aos demais colaboradores."
         },
         {
-            "name": "Tecnico de celular",
+            "name": "Técnico de Celular",
             "period": "Jan 2021 - Jan 2022",
             "description": "Responsável pela manutenção de dispositivos móveis, como smartphones, tablets e outros. Sempre mantive a coesão, o respeito e o profissionalismo no atendimento aos clientes."
         }
