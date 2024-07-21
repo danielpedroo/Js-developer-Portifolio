@@ -11,43 +11,43 @@
         "hardSkills": [
             {
                 "name": "Angular",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Angular.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/Angular.svg"
             },
             {
                 "name": "DotNet",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/DotNet.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/DotNet.svg"
             },
             {
                 "name": "MySql",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/MySql.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/MySql.svg"
             },
             {
                 "name": "Azure",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Azure.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/Azure.svg"
             },
             {
                 "name": "Git",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Git.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/Git.svg"
             },
             {
                 "name": "GitHub_Skill",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/GitHub_Skill.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/GitHub_Skill.svg"
             },
             {
                 "name": "Csharp",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Csharp.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/Csharp.svg"
             },
             {
                 "name": "JavaScript",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/JavaScript.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/JavaScript.svg"
             },
             {
                 "name": "Html",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Html.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/Html.svg"
             },
             {
                 "name": "Css",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Src/Assets/Css.svg"
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/Css.svg"
             }
         ],
         "softSkills": [
