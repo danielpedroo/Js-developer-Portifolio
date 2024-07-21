@@ -5,13 +5,12 @@
     .biograph {
         display: grid;
         grid-template-areas: 
-        "photoProfile title_Profile"
-        "photoProfile biograph_content"
-        ;
+        "photo title_Profile"
+        "photo biograph_content";
     }
 
-    .biograph .photoProfile{
-        grid-area: photoProfile;
+    .biograph .photo{
+        grid-area: photo;
         margin: 0 auto;
     }
 
