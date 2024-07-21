@@ -1,4 +1,3 @@
-
 .portifolio {
     margin: 0;
     padding: 0;
@@ -9,14 +8,14 @@
     width: 100%;
 }
 
-.portifolio li{
+.portifolio li {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
     margin: 1rem 0;
 }
 
-.portifolio li .title_Github{
+.portifolio li h3 {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -25,7 +24,7 @@
     margin: 0;
 }
 
-.portifolio li .title_Github.githubImg::before{
+.portifolio li h3.github::before {
     display: inline-block;
     content: "";
     width: 1rem;
@@ -35,4 +34,3 @@
     background-size: contain;
     background-image: url('../Assets/Github.svg');
 }
-
