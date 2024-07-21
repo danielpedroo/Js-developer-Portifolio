@@ -4,8 +4,11 @@
 }
 
 .contentSkills .tools ul {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
     margin: 0;
     padding: 0;
     list-style: none;
