@@ -10,8 +10,8 @@
     "skills": {
         "hardSkills": [
             {
-                "name": "Angular",
-                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/Angular.svg"
+                "name": "React",
+                "logo": "https://raw.githubusercontent.com/danielpedroo/Js-developer-Portifolio/main/Assets/React.svg"
             },
             {
                 "name": "DotNet",
