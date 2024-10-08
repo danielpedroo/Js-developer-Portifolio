@@ -79,13 +79,23 @@
     ],
     "portifolio": [
         {
-            "name": "Projeto Xadrez - .NET",
-            "url": "https://github.com/danielpedroo/Xadrez_Project_.NET",
+            "name": "React_Forms_Dio",
+            "url": "https://github.com/danielpedroo/React_Forms_Dio",
             "git": true
         },
         {
             "name": "Projeto Pokedex - JavaScript",
             "url": "https://github.com/danielpedroo/Pokedex",
+            "git": true
+        },
+        {
+            "name": "Calculadora - React.Js",
+            "url": "https://github.com/danielpedroo/Desafio_Trilha_React_Calculadora",
+            "git": true
+        },
+        {
+            "name": "Projeto-Pizzaria-Php_MySql",
+            "url": "https://github.com/danielpedroo/Projeto-Pizzaria-Php_MySql",
             "git": true
         }
     ],
